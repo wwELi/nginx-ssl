@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/wwELi/nginx-ssl#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.10"
   }
 }
